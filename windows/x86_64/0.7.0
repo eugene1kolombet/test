@@ -1,0 +1,12 @@
+{
+  "version": "v0.7.3",
+  "notes": "New version 2",
+  "platforms": 
+  {
+    "windows-x86_64": 
+    {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcHppd1BqVGJMbFR1ekRmS0k0eXJyRXArNlh0bXBydFBUV05BdVYxVW1lVkpOa1FwT3JvblU0UGdNZyt4ejFDYjhMS1UzRHFxV2hDOFVsMnhMdVJ6anJDOERMV1Y1dHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyMTgyMzUwCWZpbGU6YXhlLXByb2plY3RfMC43LjNfeDY0LXNldHVwLm5zaXMuemlwCkMwYVIzNVNOaExkSHoyRS9zT09ITHZLcTJ2MldHdGc5OFRGMVpWWVpKeTNTek1mZzhhMUR3VjBIRU53ZWhrZmNYZW9EaDVWWDFqb3J6SXJKUWJXT0RBPT0K",
+      "url": "https://raw.githubusercontent.com/eugene1kolombet/test/main/axe-project_0.7.3_x64-setup.nsis.zip"
+    }
+  }
+}
